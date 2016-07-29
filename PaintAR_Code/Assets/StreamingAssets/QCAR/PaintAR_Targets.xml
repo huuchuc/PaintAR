@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Spitfire" size="250.000000 187.474701" />
+    <ImageTarget name="twin" size="1048.000000 786.000000" />
+    <ImageTarget name="Spaceship" size="1048.000000 786.000000" />
+    <ImageTarget name="Emoticon" size="180.000000 135.268387" />
+    <ImageTarget name="WorldMap" size="300.000000 225.000000" />
+    <ImageTarget name="OneBox" size="250.000000 214.285721" />
+  </Tracking>
+</QCARConfig>

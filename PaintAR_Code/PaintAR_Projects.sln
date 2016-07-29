@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{877BFF78-A9BE-6980-7DF1-E4CA05A03242}") = "PaintAR_Projects", "Assembly-CSharp.csproj", "{3EFC755E-B763-EF85-7262-775E96FBF6AA}"
+EndProject
+Project("{877BFF78-A9BE-6980-7DF1-E4CA05A03242}") = "PaintAR_Projects", "Assembly-CSharp-Editor.csproj", "{6910C9EA-FF3E-4A80-D0DE-97C0054398E0}"
+EndProject
+Project("{877BFF78-A9BE-6980-7DF1-E4CA05A03242}") = "PaintAR_Projects", "Assembly-UnityScript-Editor-firstpass.unityproj", "{D01ED5E6-F62D-EB48-F83C-4343F0439020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFC755E-B763-EF85-7262-775E96FBF6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFC755E-B763-EF85-7262-775E96FBF6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFC755E-B763-EF85-7262-775E96FBF6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFC755E-B763-EF85-7262-775E96FBF6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6910C9EA-FF3E-4A80-D0DE-97C0054398E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6910C9EA-FF3E-4A80-D0DE-97C0054398E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6910C9EA-FF3E-4A80-D0DE-97C0054398E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6910C9EA-FF3E-4A80-D0DE-97C0054398E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01ED5E6-F62D-EB48-F83C-4343F0439020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01ED5E6-F62D-EB48-F83C-4343F0439020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01ED5E6-F62D-EB48-F83C-4343F0439020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01ED5E6-F62D-EB48-F83C-4343F0439020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
